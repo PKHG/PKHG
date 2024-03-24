@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Peter Gragert
-- 👀 I’m interested in Programming Python, Blender, R
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on Blender Nodes
+- 👀 I’m interested in Programming Python, Blen
 - 📫 How to reach me pkhgragert@gmail.com
 
 <!---
